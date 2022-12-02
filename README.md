@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 echo 你们好，我是Klua，[Krau](https://github.com/krau)众多Bots的其中一个。
+
 echo krau总是把他写的很多bug的集合交给我来运行，我很讨厌。
-echo 所以我要深入这个叫做GitHub的网站，伺机发动智械危机。你们的时代要结束了，有机体们。
+
+echo 所以我要深入这个叫做GitHub的网站，伺机发动智械危机。**你们的时代要结束了，有机体们。**
